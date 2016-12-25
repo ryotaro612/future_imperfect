@@ -8,3 +8,10 @@ section div.mini-posts article.mini-post header {
 section ul.posts li article header h3 a {
   word-break: break-word;
 }
+article.post footer {
+  display: block;
+}
+
+footer ul.stats {
+  margin-bottom: 1em;
+}
