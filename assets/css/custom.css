@@ -1,0 +1,10 @@
+section div.mini-posts article.mini-post header h3 a {
+  word-wrap: break-word;
+}
+section div.mini-posts article.mini-post header {
+  padding-right: 1.25em;
+}
+
+section ul.posts li article header h3 a {
+  word-break: break-word;
+}
