@@ -15,3 +15,22 @@ article.post footer {
 footer ul.stats {
   margin-bottom: 1em;
 }
+div.title time.published {
+  color: #3c3b3b;
+  display: block;
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-size: 0.7em;
+  font-weight: 800;
+  letter-spacing: 0.25em;
+  margin-top: 0.5em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+article.post > header div.title {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+  word-wrap: break-word;
+}
+
