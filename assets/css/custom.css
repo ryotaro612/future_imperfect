@@ -8,13 +8,16 @@ section div.mini-posts article.mini-post header {
 section ul.posts li article header h3 a {
   word-break: break-word;
 }
+
+/*
 article.post footer {
   display: block;
 }
-
 footer ul.stats {
   margin-bottom: 1em;
 }
+*/
+
 div.title time.published {
   color: #3c3b3b;
   display: block;
